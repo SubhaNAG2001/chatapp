@@ -1,6 +1,8 @@
 Chat Application Documentation
 (With Tailscale VPN Support)
 
+version-1.0.0 : https://limewire.com/d/CmHJy#03KrdL1RvO
+
 📌 Overview
 A secure, peer-to-peer chat application that works over LAN or the internet without port forwarding using Tailscale VPN. Features include:
 ✅ End-to-end encrypted messaging
